@@ -1,5 +1,5 @@
 ### ✨ introductions, of the informal variety ✨
-hi, i'm kiki (short for kikimora, pronounced like the spider, Owl House character, Eastern European folk creature, or camoflauge, whichever you're most familiar with)! i'm a cybersecurity engineer from new york city but i also dabble in a wide variety of things <br>
+hi, i'm kikimora (pronounced like the spider, Owl House character, Eastern European folk creature, or camoflauge, whichever you're most familiar with)! i'm a cybersecurity engineer from new york city but i also dabble in a wide variety of things <br>
 ⁺‧₊☽◯☾₊‧⁺˖⋆⋆˖⁺‧₊☽◯☾₊‧⁺˖⋆⋆˖⁺‧₊☽◯☾₊‧⁺˖⋆⋆˖⁺‧₊☽◯☾₊‧⁺˖⋆⋆˖⁺‧₊☽◯☾₊‧⁺˖⋆⋆˖⁺‧₊☽◯☾₊‧⁺˖⋆⋆˖⁺‧₊☽◯☾₊‧⁺˖⋆⋆˖⁺‧₊☽◯☾₊‧⁺˖⋆⋆˖⁺‧₊☽⋆˖
 
 ### questionably productive (software) engineering takes
